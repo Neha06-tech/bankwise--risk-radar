@@ -1,8 +1,21 @@
-# Banking Dashboard
+# Risk Radar: Banking Sector Risk Analysis Dashboard
 
-A comprehensive banking analytics dashboard built with React, TypeScript, and Tailwind CSS. This dashboard provides real-time insights into banking operations, risk assessment, and loan decision support.
+An interactive **Power BI dashboard** designed to help banks and financial institutions **analyze client risk** and make smarter, data-driven **loan approval decisions**.
 
-## Features
+## Objective
+
+To identify and minimize **lending risks** using client demographic, financial, and behavioral data. This project empowers loan officers and analysts with real-time insights into client segmentation, risk scoring, and trend forecasting.
+
+---
+
+## Problem Statement
+
+Financial institutions often face heavy losses due to loan defaults. This dashboard helps:
+
+- **Predict loan repayment likelihood**
+- **Categorize clients** into Low/Medium/High risk
+- **Guide approval decisions**
+- **Improve portfolio risk management**
 
 ###  Core Analytics
 - **Risk Metrics Grid**: Overview of key banking metrics
