@@ -1,4 +1,4 @@
-# 🏦 Risk Radar: Banking Sector Risk Analysis Dashboard
+#  Risk Radar: Banking Sector Risk Analysis Dashboard
 
 An interactive **Power BI dashboard** designed to help banks and financial institutions **analyze client risk** and make smarter, data-driven **loan approval decisions**.
 
@@ -10,7 +10,7 @@ To identify and minimize **lending risks** using client demographic, financial, 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Financial institutions often face heavy losses due to loan defaults. This dashboard helps:
 
@@ -21,9 +21,9 @@ Financial institutions often face heavy losses due to loan defaults. This dashbo
 
 ---
 
-## ✅ Key Features
+## Key Features
 
-### 🔍 Risk Analytics
+### Risk Analytics
 - **Client Risk Categorization**: Pie chart view of Low, Medium, and High-risk clients
 - **Loan vs. Income Band**: Average loan amount per income category (bar chart)
 - **Correlation Heatmap**: Relationships between key numerical variables (income, age, credit score, etc.)
@@ -40,7 +40,7 @@ Financial institutions often face heavy losses due to loan defaults. This dashbo
 
 ---
 
-## 📊 Dashboard KPIs
+##  Dashboard KPIs
 
 | Metric              | Value         |
 |---------------------|---------------|
@@ -53,7 +53,7 @@ Financial institutions often face heavy losses due to loan defaults. This dashbo
 
 ---
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 
 This dashboard uses **multiple interlinked tables**:
 
@@ -69,7 +69,7 @@ This dashboard uses **multiple interlinked tables**:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Tool Used**: Power BI  
 - **Data Source**: CSV files (pre-cleaned and normalized)  
@@ -92,7 +92,7 @@ This dashboard enables quick evaluation of loan applications and overall client 
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Live database/API integration for real-time analytics  
 - Predictive modeling using ML (integration with Python/R)  
@@ -111,13 +111,13 @@ This dashboard enables quick evaluation of loan applications and overall client 
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source under the **MIT License**. Feel free to use, modify, or build upon it with credit.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork this repo  
 2. Create a new branch (`feature/risk-visualization`)  
