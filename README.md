@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** designed to help banks and financial insti
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To identify and minimize **lending risks** using client demographic, financial, and behavioral data. This project empowers loan officers and analysts with real-time insights into client segmentation, risk scoring, and trend forecasting.
 
@@ -30,7 +30,7 @@ Financial institutions often face heavy losses due to loan defaults. This dashbo
 - **Client Acquisition Trend**: Track client growth over time and lending trends
 - **Property vs. Loan Amount**: Scatter chart comparing properties owned and loan size
 
-### 🧠 Interactive Filters
+###  Interactive Filters
 - Nationality  
 - Gender  
 - Occupation  
@@ -81,7 +81,7 @@ This dashboard uses **multiple interlinked tables**:
 
 ---
 
-## 👤 Target Audience
+##  Target Audience
 
 - **Loan Officers**
 - **Risk Managers**
@@ -102,7 +102,7 @@ This dashboard enables quick evaluation of loan applications and overall client 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the Power BI `.pbix` file  
 2. Click **Refresh** to load the latest data  
